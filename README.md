@@ -17,6 +17,7 @@ table, th, td {
                 <th>CREATOR</th> 
                 <th>ATTRACTION</th>
                 <th>MESSAGE CLEAR</th>
+                //---------------------------------------need more size----------------------------------------//
            </tr>
            <tr bgcolor = "#afeeee">
                 <td rowspan = "2" > 
@@ -29,6 +30,7 @@ table, th, td {
                 <td>-NORMAL</td>
                 <td>-MEDIUM</td>
                 <td>-CLEAR</td>
+             //----------------------------------add color------------------------------//
            </tr>
             <tr bgcolor = "#afeeee">
                 <td rowspan = "2"> 
